@@ -1,0 +1,789 @@
+[
+    {
+        "user_id": "sample29.jpeg",
+        "extracted_fields": {
+            "name": "Agastya\nRoll",
+            "roll_number": "Ca",
+            "branch": "ECE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_0_1.jpeg",
+        "extracted_fields": {
+            "roll_number": "9342315011",
+            "college": "COLLEGE OF ENGINEERING\n\nPRIYA SHARMA\nStudent ID",
+            "branch": "ECE\n\nValid upto",
+            "valid_upto": "2027"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample13.jpeg",
+        "extracted_fields": {
+            "roll_number": "ENTITY",
+            "branch": ""
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample44.jpeg",
+        "extracted_fields": {
+            "name": "Arya\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "Civil engineering\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample25.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample33.jpeg",
+        "extracted_fields": {
+            "name": "Atharv\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "CSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample1.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample48.jpeg",
+        "extracted_fields": {
+            "name": "Aditi\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "Mechanical engineering\n\nValid upto",
+            "valid_upto": "2026"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample49.jpeg",
+        "extracted_fields": {
+            "name": "Aaran\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "CSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_sample_2.jpeg",
+        "extracted_fields": {
+            "roll_number": "1122334455",
+            "valid_upto": "2024"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "branch"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample32.jpeg",
+        "extracted_fields": {
+            "name": "Jiya\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "CSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample24.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample45.jpeg",
+        "extracted_fields": {
+            "name": "Aadharsh\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "Civil engineering\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_0_0.jpeg",
+        "extracted_fields": {
+            "roll_number": "8562134043",
+            "college": "COLLEGE OF ENGINEERING\nMAIN PATEL\n\nStudent ID",
+            "branch": "MECH\n\nValid upto",
+            "valid_upto": "2026"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample12.jpeg",
+        "extracted_fields": {
+            "roll_number": "DARTH"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample28.jpeg",
+        "extracted_fields": {
+            "name": "Reyansh\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "CSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample23.jpeg",
+        "extracted_fields": {
+            "roll_number": "UPTO"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample35.jpeg",
+        "extracted_fields": {
+            "roll_number": "HOUA"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample7.jpeg",
+        "extracted_fields": {
+            "name": "SUMIT SUMAN\nEntry No"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample19.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample39.jpeg",
+        "extracted_fields": {
+            "name": "Haalah\n\nRoll No",
+            "roll_number": "Ca",
+            "branch": "Name\nMBBS\n\nValid upto",
+            "valid_upto": "2027"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample15.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample42.jpeg",
+        "extracted_fields": {
+            "name": "Arya\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "Civil engineering\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample43.jpeg",
+        "extracted_fields": {
+            "name": "Arya\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "Civil engineering\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample14.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample38.jpeg",
+        "extracted_fields": {
+            "name": "Aashiq Ali shaik\n\nRoll No",
+            "roll_number": "Ca",
+            "branch": "Name\nCSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample18.jpeg",
+        "extracted_fields": {
+            "name": "Ahtesham Raza Ejaz Ahamed",
+            "roll_number": "1795310119"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample6.jpeg",
+        "extracted_fields": {
+            "name": "Branch",
+            "roll_number": "h",
+            "branch": ""
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample34.jpeg",
+        "extracted_fields": {
+            "name": "Geethambhika\n\nRolLno",
+            "roll_number": "Ca",
+            "branch": "CSE"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample22.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample5.jpeg",
+        "extracted_fields": {
+            "name": "Your Long Good Name\nR",
+            "roll_number": "CARD",
+            "college": "COLLEGE OF KNITWEAR FASHION\n\nEast of TEKIC"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample37.jpeg",
+        "extracted_fields": {
+            "name": "Aashiq Ali shaik\n\nRoll No",
+            "roll_number": "Ca",
+            "branch": "Name\nCSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample21.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_1_1.jpeg",
+        "extracted_fields": {
+            "roll_number": "6503982745",
+            "college": "COLLEGE OF ENGINEERING\n\nNEHA VERMA\nStudent ID",
+            "branch": "CSE\n\nValid upto",
+            "valid_upto": "2025"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample40.jpeg",
+        "extracted_fields": {
+            "name": "Firdouse Nuzhath\n\nRoll No",
+            "roll_number": "upto",
+            "branch": "Name\nMechanical Engineering\n\nValid upto",
+            "valid_upto": "2026"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample9.jpeg",
+        "extracted_fields": {
+            "name": "Ram Kumar Sharma\nCourse",
+            "college": "COLLEGE OF BBA"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "roll_number",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample17.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample16.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample8.jpeg",
+        "extracted_fields": {
+            "name": "Branch",
+            "roll_number": "h",
+            "branch": ""
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample41.jpeg",
+        "extracted_fields": {
+            "name": "Shruti\n\nRoll No",
+            "roll_number": "upto",
+            "branch": "Name\nECE\n\nValid upto",
+            "valid_upto": "2027"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_1_0.jpeg",
+        "extracted_fields": {
+            "roll_number": "7821456009",
+            "college": "COLLEGE OF ENGINEERING\nAMIT KUMAR\n\nStudent ID",
+            "branch": "CIVIL\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample20.jpeg",
+        "extracted_fields": {},
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "roll_number",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample36.jpeg",
+        "extracted_fields": {
+            "name": "Firdouse Nuzhath\n\nRoll No",
+            "roll_number": "upto",
+            "branch": "Name\nMechanical Engineering\n\nValid upto",
+            "valid_upto": "2026"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample4.jpeg",
+        "extracted_fields": {
+            "name": "Akshay Sanjay Patil\nDate of Birth",
+            "roll_number": "ed",
+            "college": "College of Engineering\na"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample50.jpeg",
+        "extracted_fields": {
+            "name": "Naya\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "EEE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample46.jpeg",
+        "extracted_fields": {
+            "name": "Vallika\n\nRoll No",
+            "roll_number": "Ca",
+            "branch": "Name\nB",
+            "valid_upto": "2027"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample11.jpeg",
+        "extracted_fields": {
+            "roll_number": "ijala",
+            "branch": "Mechanical Engineering\nPH"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample3.jpeg",
+        "extracted_fields": {
+            "roll_number": "05531A0502",
+            "college": "College of En ngineering"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_sample_1.jpeg",
+        "extracted_fields": {
+            "roll_number": "9876543210",
+            "valid_upto": "2025"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "branch"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample31.jpeg",
+        "extracted_fields": {
+            "name": "Khari\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "CSE\n\nValid upto",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample27.jpeg",
+        "extracted_fields": {
+            "name": "G",
+            "roll_number": "20171506"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample26.jpeg",
+        "extracted_fields": {
+            "name": "",
+            "roll_number": "CARD"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample30.jpeg",
+        "extracted_fields": {
+            "name": "Kana\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "CSE",
+            "valid_upto": "2028"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "id_card_sample_0.jpeg",
+        "extracted_fields": {
+            "roll_number": "1234567890",
+            "college": "COLLEGE OF ENGINEERING\n\nAARAV SINGH\n\nID",
+            "valid_upto": "2026"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "branch"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample2.jpeg",
+        "extracted_fields": {
+            "roll_number": "20059025"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "name",
+            "college",
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample10.jpeg",
+        "extracted_fields": {
+            "name": "ABDUL MATEEN SHAH\n\nCourse",
+            "roll_number": "ENTITY",
+            "college": "College Code"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "branch",
+            "valid_upto"
+        ],
+        "status": "partial_success"
+    },
+    {
+        "user_id": "sample47.jpeg",
+        "extracted_fields": {
+            "name": "Aadavan\n\nRoll",
+            "roll_number": "Ca",
+            "branch": "Mechanical engineering\n\nValid upto",
+            "valid_upto": "2027"
+        },
+        "confidence_score": 0.2,
+        "missing_fields": [
+            "college"
+        ],
+        "status": "partial_success"
+    }
+]

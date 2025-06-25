@@ -1,0 +1,147 @@
+
+Image: id_card_0_0.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_0_0",
+  "extracted_fields": {
+    "name": "N nN co"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------
+
+Image: id_card_0_1.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_0_1",
+  "extracted_fields": {
+    "name": "enNEe moa"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------
+
+Image: id_card_1_0.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_1_0",
+  "extracted_fields": {
+    "name": "N N"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------
+
+Image: id_card_1_1.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_1_1",
+  "extracted_fields": {
+    "name": "oOo wn Q"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------
+
+Image: id_card_sample_0.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_sample_0",
+  "extracted_fields": {
+    "name": "COLLEGE OF ENGINEERING"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------
+
+Image: id_card_sample_1.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_sample_1",
+  "extracted_fields": {
+    "name": "INSTITUTE OF TECHNOLOGY"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------
+
+Image: id_card_sample_2.jpeg
+Status Code: 200
+Response:
+{
+  "user_id": "id_card_sample_2",
+  "extracted_fields": {
+    "name": "DTE UNIVERSITY"
+  },
+  "confidence_score": 0.2,
+  "missing_fields": [
+    "roll_number",
+    "college",
+    "branch",
+    "valid_upto"
+  ],
+  "status": "partial_success",
+  "base64_preview": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQ...",
+  "status_code": 200
+}
+------------------------------------------------------------

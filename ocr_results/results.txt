@@ -1,0 +1,551 @@
+User ID: sample29.jpeg
+name: Agastya
+Roll
+roll_number: Ca
+branch: ECE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: id_card_0_1.jpeg
+roll_number: 9342315011
+college: COLLEGE OF ENGINEERING
+
+PRIYA SHARMA
+Student ID
+branch: ECE
+
+Valid upto
+valid_upto: 2027
+Confidence: 0.2
+Missing Fields: name
+Status: partial_success
+------------------------------
+User ID: sample13.jpeg
+roll_number: ENTITY
+branch: 
+Confidence: 0.2
+Missing Fields: name, college, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample44.jpeg
+name: Arya
+
+Roll
+roll_number: Ca
+branch: Civil engineering
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample25.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample33.jpeg
+name: Atharv
+
+Roll
+roll_number: Ca
+branch: CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample1.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample48.jpeg
+name: Aditi
+
+Roll
+roll_number: Ca
+branch: Mechanical engineering
+
+Valid upto
+valid_upto: 2026
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample49.jpeg
+name: Aaran
+
+Roll
+roll_number: Ca
+branch: CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: id_card_sample_2.jpeg
+roll_number: 1122334455
+valid_upto: 2024
+Confidence: 0.2
+Missing Fields: name, college, branch
+Status: partial_success
+------------------------------
+User ID: sample32.jpeg
+name: Jiya
+
+Roll
+roll_number: Ca
+branch: CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample24.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample45.jpeg
+name: Aadharsh
+
+Roll
+roll_number: Ca
+branch: Civil engineering
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: id_card_0_0.jpeg
+roll_number: 8562134043
+college: COLLEGE OF ENGINEERING
+MAIN PATEL
+
+Student ID
+branch: MECH
+
+Valid upto
+valid_upto: 2026
+Confidence: 0.2
+Missing Fields: name
+Status: partial_success
+------------------------------
+User ID: sample12.jpeg
+roll_number: DARTH
+Confidence: 0.2
+Missing Fields: name, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample28.jpeg
+name: Reyansh
+
+Roll
+roll_number: Ca
+branch: CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample23.jpeg
+roll_number: UPTO
+Confidence: 0.2
+Missing Fields: name, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample35.jpeg
+roll_number: HOUA
+Confidence: 0.2
+Missing Fields: name, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample7.jpeg
+name: SUMIT SUMAN
+Entry No
+Confidence: 0.2
+Missing Fields: roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample19.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample39.jpeg
+name: Haalah
+
+Roll No
+roll_number: Ca
+branch: Name
+MBBS
+
+Valid upto
+valid_upto: 2027
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample15.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample42.jpeg
+name: Arya
+
+Roll
+roll_number: Ca
+branch: Civil engineering
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample43.jpeg
+name: Arya
+
+Roll
+roll_number: Ca
+branch: Civil engineering
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample14.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample38.jpeg
+name: Aashiq Ali shaik
+
+Roll No
+roll_number: Ca
+branch: Name
+CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample18.jpeg
+name: Ahtesham Raza Ejaz Ahamed
+roll_number: 1795310119
+Confidence: 0.2
+Missing Fields: college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample6.jpeg
+name: Branch
+roll_number: h
+branch: 
+Confidence: 0.2
+Missing Fields: college, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample34.jpeg
+name: Geethambhika
+
+RolLno
+roll_number: Ca
+branch: CSE
+Confidence: 0.2
+Missing Fields: college, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample22.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample5.jpeg
+name: Your Long Good Name
+R
+roll_number: CARD
+college: COLLEGE OF KNITWEAR FASHION
+
+East of TEKIC
+Confidence: 0.2
+Missing Fields: branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample37.jpeg
+name: Aashiq Ali shaik
+
+Roll No
+roll_number: Ca
+branch: Name
+CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample21.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: id_card_1_1.jpeg
+roll_number: 6503982745
+college: COLLEGE OF ENGINEERING
+
+NEHA VERMA
+Student ID
+branch: CSE
+
+Valid upto
+valid_upto: 2025
+Confidence: 0.2
+Missing Fields: name
+Status: partial_success
+------------------------------
+User ID: sample40.jpeg
+name: Firdouse Nuzhath
+
+Roll No
+roll_number: upto
+branch: Name
+Mechanical Engineering
+
+Valid upto
+valid_upto: 2026
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample9.jpeg
+name: Ram Kumar Sharma
+Course
+college: COLLEGE OF BBA
+Confidence: 0.2
+Missing Fields: roll_number, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample17.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample16.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample8.jpeg
+name: Branch
+roll_number: h
+branch: 
+Confidence: 0.2
+Missing Fields: college, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample41.jpeg
+name: Shruti
+
+Roll No
+roll_number: upto
+branch: Name
+ECE
+
+Valid upto
+valid_upto: 2027
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: id_card_1_0.jpeg
+roll_number: 7821456009
+college: COLLEGE OF ENGINEERING
+AMIT KUMAR
+
+Student ID
+branch: CIVIL
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: name
+Status: partial_success
+------------------------------
+User ID: sample20.jpeg
+Confidence: 0.2
+Missing Fields: name, roll_number, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample36.jpeg
+name: Firdouse Nuzhath
+
+Roll No
+roll_number: upto
+branch: Name
+Mechanical Engineering
+
+Valid upto
+valid_upto: 2026
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample4.jpeg
+name: Akshay Sanjay Patil
+Date of Birth
+roll_number: ed
+college: College of Engineering
+a
+Confidence: 0.2
+Missing Fields: branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample50.jpeg
+name: Naya
+
+Roll
+roll_number: Ca
+branch: EEE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample46.jpeg
+name: Vallika
+
+Roll No
+roll_number: Ca
+branch: Name
+B
+valid_upto: 2027
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample11.jpeg
+roll_number: ijala
+branch: Mechanical Engineering
+PH
+Confidence: 0.2
+Missing Fields: name, college, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample3.jpeg
+roll_number: 05531A0502
+college: College of En ngineering
+Confidence: 0.2
+Missing Fields: name, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: id_card_sample_1.jpeg
+roll_number: 9876543210
+valid_upto: 2025
+Confidence: 0.2
+Missing Fields: name, college, branch
+Status: partial_success
+------------------------------
+User ID: sample31.jpeg
+name: Khari
+
+Roll
+roll_number: Ca
+branch: CSE
+
+Valid upto
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: sample27.jpeg
+name: G
+roll_number: 20171506
+Confidence: 0.2
+Missing Fields: college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample26.jpeg
+name: 
+roll_number: CARD
+Confidence: 0.2
+Missing Fields: college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample30.jpeg
+name: Kana
+
+Roll
+roll_number: Ca
+branch: CSE
+valid_upto: 2028
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------
+User ID: id_card_sample_0.jpeg
+roll_number: 1234567890
+college: COLLEGE OF ENGINEERING
+
+AARAV SINGH
+
+ID
+valid_upto: 2026
+Confidence: 0.2
+Missing Fields: name, branch
+Status: partial_success
+------------------------------
+User ID: sample2.jpeg
+roll_number: 20059025
+Confidence: 0.2
+Missing Fields: name, college, branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample10.jpeg
+name: ABDUL MATEEN SHAH
+
+Course
+roll_number: ENTITY
+college: College Code
+Confidence: 0.2
+Missing Fields: branch, valid_upto
+Status: partial_success
+------------------------------
+User ID: sample47.jpeg
+name: Aadavan
+
+Roll
+roll_number: Ca
+branch: Mechanical engineering
+
+Valid upto
+valid_upto: 2027
+Confidence: 0.2
+Missing Fields: college
+Status: partial_success
+------------------------------

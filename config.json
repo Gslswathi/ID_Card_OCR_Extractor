@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "name": {
+      "keywords": ["name", "student name"],
+      "regex": "([A-Z][a-z]+\\s[A-Z][a-z]+|[A-Z ]{3,})"
+    },
+    "roll_number": {
+      "keywords": ["roll", "id", "student id", "register"],
+      "regex": "[0-9]{6,15}"
+    },
+    "college": {
+      "keywords": ["college", "institute", "university"],
+      "regex": "([A-Z][a-zA-Z &]+(?:College|Institute|University))"
+    },
+    "branch": {
+      "keywords": ["branch", "dept", "department"],
+      "regex": "(CSE|ECE|MECH|EEE|CIVIL|IT|BIO|AI[ -]?ML|[A-Z]{2,})"
+    },
+    "valid_upto": {
+      "keywords": ["valid upto", "valid till", "upto", "expiry"],
+      "regex": "(202[0-9]|203[0-9])"
+    }
+  }
+}
