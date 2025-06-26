@@ -10,10 +10,17 @@ OUTPUT_FOLDER = "ocr_results"
 JSON_FILE = os.path.join(OUTPUT_FOLDER, "results.json")
 TEXT_FILE = os.path.join(OUTPUT_FOLDER, "results.txt")
 
-# Create or clean output folder
+# Validate folder
+if not os.path.exists(IMAGE_FOLDER):
+    print(f"Folder '{IMAGE_FOLDER}' not found. Please create and add test images.")
+    exit(1)
+
+# Create/clean output folder
 if os.path.exists(OUTPUT_FOLDER):
     shutil.rmtree(OUTPUT_FOLDER)
 os.makedirs(OUTPUT_FOLDER)
+
+print(f"Found images in '{IMAGE_FOLDER}'. Starting OCR...")
 
 # Regex patterns
 patterns = {
@@ -27,9 +34,12 @@ patterns = {
 all_results = []
 txt_lines = []
 
-# Loop through images
-for image_name in os.listdir(IMAGE_FOLDER):
-    if image_name.lower().endswith(('.jpeg', '.jpg', '.png')):
+images = [img for img in os.listdir(IMAGE_FOLDER) if img.lower().endswith(('.jpeg', '.jpg', '.png'))]
+
+if not images:
+    print("No valid image files found in the folder.")
+else:
+    for image_name in images:
         image_path = os.path.join(IMAGE_FOLDER, image_name)
 
         # Extract OCR text
@@ -68,11 +78,11 @@ for image_name in os.listdir(IMAGE_FOLDER):
         txt_lines.append(f"Status: {status}")
         txt_lines.append("-" * 30)
 
-# Write to output files
-with open(JSON_FILE, "w") as jf:
-    json.dump(all_results, jf, indent=4)
+    # Write output
+    with open(JSON_FILE, "w") as jf:
+        json.dump(all_results, jf, indent=4)
 
-with open(TEXT_FILE, "w") as tf:
-    tf.write("\n".join(txt_lines))
+    with open(TEXT_FILE, "w") as tf:
+        tf.write("\n".join(txt_lines))
 
-print(f"\n✅ Done. Check output files in '{OUTPUT_FOLDER}/'")
+    print(f"\nDone. Extracted from {len(images)} image(s). Check output files in '{OUTPUT_FOLDER}/'")
